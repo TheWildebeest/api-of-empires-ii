@@ -14,8 +14,8 @@
     ],
     "rewrites": [
       {
-        "source": "https://api-of-empires-ii.firebaseapp.com/api/**",
-        "function": "rogan"
+        "source": "your-source-url",
+        "function": "your-function-name"
       }
     ]
   }
