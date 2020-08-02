@@ -1,0 +1,492 @@
+[
+  {
+    "civID": 101,
+    "name": "Aztecs",
+    "bonus": [
+      "Villagers carry +5",
+      "Military units - including Siege Weapons, Warships but no Monks - are created 18% faster",
+      "Monks +5 hit points for each Monastery technology",
+      "Start with +50 gold"
+    ],
+    "uniqueUnits": [
+      "Jaguar Warrior (anti-Infantry Infantry)"
+    ],
+    "castleAgeTech": "Atlatl (Skirmishers, Genitour +1 Attack, +1 Range)",
+    "imperialAgeTech": "Garland Wars (Infantry +4 Attack)",
+    "teamBonus": "Relics generate +33% gold"
+  },
+  {
+    "civID": 102,
+    "name": "Berbers",
+    "bonus": [
+      "Villagers move 10% faster",
+      "Stable units cost -15/20% in Castle/Imperial Age",
+      "Ships move 10% faster"
+    ],
+    "uniqueUnits": [
+      "Camel Archer (Cavalry Archer with bonus against other Cavalry Archers)",
+      "Genitour (mounted Skirmisher)"
+    ],
+    "castleAgeTech": "Kasbah (Team Castle work +25% faster)",
+    "imperialAgeTech": "Maghrabi Camels (Camel troops regenerate 1 HP/4s)",
+    "teamBonus": "Genitour available in Archery Range"
+  },
+  {
+    "civID": 103,
+    "name": "Britons",
+    "bonus": [
+      "Town Centers cost -50% wood in Castle Age",
+      "Foot Archers (except Skirmishers) have +1/+2 range in Castle/Imperial Age",
+      "Shepherds work 25% faster"
+    ],
+    "uniqueUnits": [
+      "Longbowman (long-range Archer)"
+    ],
+    "castleAgeTech": "Yeomen (Foot Archers and Skirmishers +1 range; Towers +2 Attack)",
+    "imperialAgeTech": "Warwolf (Trebuchets get 0.5 blast radius, 100% accuracy)",
+    "teamBonus": "Archery Ranges work 20% faster"
+  },
+  {
+    "civID": 104,
+    "name": "Burmese",
+    "bonus": [
+      "Free Lumbercamp upgrades",
+      "Infantry +1 Attack per Age (Starting in Feudal Age)",
+      "Monastery techs cost -50%"
+    ],
+    "uniqueUnits": [
+      "Arambai (Powerful, but inaccurate ranged cavalry)"
+    ],
+    "castleAgeTech": "Howdah (Battle Elephants +1/+2 Armor)",
+    "imperialAgeTech": "Manipur Cavalry (Cavalry and Arambai +6 Attack vs. Buildings, +3 of that blockable by building armor)",
+    "teamBonus": "Relics visible on map"
+  },
+  {
+    "civID": 105,
+    "name": "Byzantines",
+    "bonus": [
+      "Buildings +10/20/30/40% HP in Dark/Feudal/Castle/Imperial Age",
+      "Camels, Skirmishers, Spear-line cost -25%",
+      "Fire Ships attack 20% faster",
+      "Town Watch is free",
+      "Advance to Imperial Age cost -33%"
+    ],
+    "uniqueUnits": [
+      "Cataphract (anti-Infantry Cavalry)"
+    ],
+    "castleAgeTech": "Greek Fire (Fire Ships +1 range)",
+    "imperialAgeTech": "Logistica (Cataphracts cause 5 blast dmg (0.5 radius) and get +6 extra Attack vs. Ifantry)",
+    "teamBonus": "Monks +50% heal speed"
+  },
+  {
+    "civID": 106,
+    "name": "Celts",
+    "bonus": [
+      "Infantry move 15% faster",
+      "Lumberjacks work 15% faster",
+      "Siege Weapons fire 25% faster",
+      "Can convert sheep even if enemy are next to them"
+    ],
+    "uniqueUnits": [
+      "Woad Raider (fast-moving Infantry)"
+    ],
+    "castleAgeTech": "Stronghold (Castle, Towers fire 25% faster)",
+    "imperialAgeTech": "Furor Celtica (Siege Workshop units have +40% hit points",
+    "teamBonus": "Siege Workshops work 20% faster"
+  },
+  {
+    "civID": 107,
+    "name": "Chinese",
+    "bonus": [
+      "Start with +3 Villagers but -50 wood, -200 food",
+      "Technologies cost -10/15/20% in Feudal/Castle/Imperial Age",
+      "Town Centers support 10 population",
+      "Town Center +5 Line of sight",
+      "Demolition Ships +50% hit points"
+    ],
+    "uniqueUnits": [
+      "Chu Ko Nu (fast-firing Archer)"
+    ],
+    "castleAgeTech": "Great Wall (Walls and Towers +30% HP)",
+    "imperialAgeTech": "Rocketry (Chu Ko Nus +2P, Scorpions +4P Attack)",
+    "teamBonus": "Farms +45 food"
+  },
+  {
+    "civID": 108,
+    "name": "Ethiopians",
+    "bonus": [
+      "Archer-line fires 18% faster",
+      "Receive +100 gold, +100 food when advancing to the next Age",
+      "Pikeman upgrades free"
+    ],
+    "uniqueUnits": [
+      "Shotel Warrior (Strong, but vulnerable Infantry)"
+    ],
+    "castleAgeTech": "Royal Heirs (Shotel Warriors are created twice as fast)",
+    "imperialAgeTech": "Torsion Engines (Rams, Onagers blast radius +0.5)",
+    "teamBonus": "Towers and Outposts +3 LoS"
+  },
+  {
+    "civID": 109,
+    "name": "Franks",
+    "bonus": [
+      "Foragers work 25% faster",
+      "Castles cost -25%",
+      "Cavalry +20% hit points",
+      "Farm upgrades free (required Mill)"
+    ],
+    "uniqueUnits": [
+      "Throwing Axeman (ranged Infantry)"
+    ],
+    "castleAgeTech": "Chivalry (Stables work 40% faster)",
+    "imperialAgeTech": "Bearded Axe (Throwing Axemen +1 range)",
+    "teamBonus": "Knights +2 line of sight"
+  },
+  {
+    "civID": 110,
+    "name": "Goths",
+    "bonus": [
+      "Infantry cost -35% starting in Feudal Age",
+      "Infantry +1 Attack vs. Buildings",
+      "Villagers +5 Attack vs. wild boar; hunters carry +15 meat",
+      "+10 population in Imperial Age"
+    ],
+    "uniqueUnits": [
+      "Huskarl (anti-Archer Infantry)"
+    ],
+    "castleAgeTech": "Anarchy (create Huskarls at Barracks)",
+    "imperialAgeTech": "Perfusion (Barracks work 2x faster)",
+    "teamBonus": "Barracks work 20% faster"
+  },
+  {
+    "civID": 111,
+    "name": "Huns",
+    "bonus": [
+      "Do not need houses, but start with -100 wood",
+      "Cavalry Archers, Genitours cost -10/20% in Castle/Imperial Age",
+      "Trebuchets +35% accuracy (50% instead of 15%)"
+    ],
+    "uniqueUnits": [
+      "Tarkan (medium Cavalry with bonus against Buildings)"
+    ],
+    "castleAgeTech": "Marauders (Create Tarkans at Stables)",
+    "imperialAgeTech": "Atheism (+100 years Relic, Wonder victories; Spies/Treason costs -50%)",
+    "teamBonus": "Stables work 20% faster"
+  },
+  {
+    "civID": 112,
+    "name": "Incas",
+    "bonus": [
+      "Start with a free llama",
+      "Villagers affected by Infantry Blacksmith upgrades",
+      "Houses support 10 population",
+      "Buildings cost -15% stone"
+    ],
+    "uniqueUnits": [
+      "Kamayuk (anti-Cavalry Infantry)",
+      "Slinger (anti-Infantry Archer)"
+    ],
+    "castleAgeTech": "Andean Sling (Skirmishers, Slingers and Genitours no minimum range)",
+    "imperialAgeTech": "Couriers (Kamayuks, Slingers, Eagles +1/+2 Armor)",
+    "teamBonus": "Farms built twice as fast"
+  },
+  {
+    "civID": 113,
+    "name": "Indians",
+    "bonus": [
+      "Villagers cost -10/15/20/25% in Dark/Feudal/Castle/Imperial Age",
+      "Fisherman work 15% faster and carry +15",
+      "Camels +0/+1 Armor"
+    ],
+    "uniqueUnits": [
+      "Elephant Archer (High HP, slow Cavalry Archer)",
+      "Imperial Camel (Camel upgrade)"
+    ],
+    "castleAgeTech": "Sultans (All gold income 10% faster)",
+    "imperialAgeTech": "Shatagni (Hand Cannoneers +1 range)",
+    "teamBonus": "Camels +6, Mamelukes/Camel Archers +5 Attack vs. Buildings"
+  },
+  {
+    "civID": 114,
+    "name": "Italians",
+    "bonus": [
+      "Advancing to the next Age costs -15%",
+      "Dock techs cost -50%",
+      "Fishing Ships cost -15%",
+      "Gunpowder units cost -20%"
+    ],
+    "uniqueUnits": [
+      "Genoese Crossbowman (anti-Cavalry Archer)",
+      "Condottiero (anti-Gunpowder Infantry)"
+    ],
+    "castleAgeTech": "Pavise (Foot Archers +1/+1 Armor)",
+    "imperialAgeTech": "Silk Road (Trade units cost -50%)",
+    "teamBonus": "Condottiero available in Barracks in Imperial Age"
+  },
+  {
+    "civID": 115,
+    "name": "Japanese",
+    "bonus": [
+      "Fishing Ships 2x hit points; +2 Pierce Armor; work rate +5/10/15/20% in Dark/Feudal/Castle/Imperial Age",
+      "Mill, Lumber/Mining Camps cost -50%",
+      "Infantry attack 33% faster starting in Feudal Age"
+    ],
+    "uniqueUnits": [
+      "Samurai (Infantry with bonus against Unique Units)"
+    ],
+    "castleAgeTech": "Yasama (Towers fire 2 extra arrows)",
+    "imperialAgeTech": "Kataparuto (Trebuchets fire 33% /pack 4x faster)",
+    "teamBonus": "Galleys +50% line of sight"
+  },
+  {
+    "civID": 116,
+    "name": "Khamer",
+    "bonus": [
+      "No buildings required to advance to the next Age or to unlock other buildings",
+      "Battle Elephants +15% faster",
+      "Houses can shelter 5 villagers"
+    ],
+    "uniqueUnits": [
+      "Ballista Elephant (Cavalry siege)"
+    ],
+    "castleAgeTech": "Tusk Swords (Battle Elephants +3 Attack)",
+    "imperialAgeTech": "Double Crossbow (Ballista Elephants and Scorpions shoot two projectiles)",
+    "teamBonus": "Scorpions +1 range"
+  },
+  {
+    "civID": 117,
+    "name": "Koreans",
+    "bonus": [
+      "Villagers +3 line of sight",
+      "Stone miners work 20% faster",
+      "Walls and Castles build 33% faster, Towers built 5% faster",
+      "Tower upgrades free (Bombard Tower requires Chemistry)",
+      "Tower +1/+2 range in Castle/Imperial Age"
+    ],
+    "uniqueUnits": [
+      "War Wagon (High HP, anti-Archer Cavalry Archer)",
+      "Turtle Ship (heavily armored warship)"
+    ],
+    "castleAgeTech": "Panokseon (Turtle Ships move 15% faster)",
+    "imperialAgeTech": "Shinkichon (Onager-line +1 range)",
+    "teamBonus": "Onager-line minimum range reduced to 1"
+  },
+  {
+    "civID": 118,
+    "name": "Magyars",
+    "bonus": [
+      "Villagers kill wolves with 1 strike",
+      "Forging, Iron Casting, Blast Furnace free",
+      "Scout Cavalry, Light Cavalry, Hussar cost -15%"
+    ],
+    "uniqueUnits": [
+      "Magyar Huszar (Light Cavalry)"
+    ],
+    "castleAgeTech": "Mercenaries (Magyar Huszars cost no gold)",
+    "imperialAgeTech": "Recurve Bow (Cavalry Archer-line +1 range, +1 Attack)",
+    "teamBonus": "Foot Archers +2 LoS"
+  },
+  {
+    "civID": 119,
+    "name": "Malay",
+    "bonus": [
+      "Advancing to Ages +80% faster",
+      "Fish Traps cost -33%",
+      "Fish Traps provide unlimited food",
+      "Battle Elephants cost -30%"
+    ],
+    "uniqueUnits": [
+      "Karambit Warrior (cheap infantry)"
+    ],
+    "castleAgeTech": "Thalassocracy (Upgrades your Docks to Harbors, which fire arrows)",
+    "imperialAgeTech": "Forced Levy (Militia-line cost no gold)",
+    "teamBonus": "Docks +100% LoS"
+  },
+  {
+    "civID": 120,
+    "name": "Malians",
+    "bonus": [
+      "Buildings cost -15% wood (except Farms)",
+      "Barracks units +1 Pierce Armor per Age (starting from Feudal Age)",
+      "Gold Mining upgrades free"
+    ],
+    "uniqueUnits": [
+      "Gbeto (ranged Infantry)"
+    ],
+    "castleAgeTech": "Tigui (Town Centers fire 5 extra arrows, even empty)",
+    "imperialAgeTech": "Farimba (Cavalry, Camels +5 Attack)",
+    "teamBonus": "University researches +80% faster"
+  },
+  {
+    "civID": 121,
+    "name": "Mayans",
+    "bonus": [
+      "Start with +1 villager, but -50 food",
+      "Resources last 15% longer, but farmers work 3% slower",
+      "Archers cost -10/20/30% in Feudal/Castle/Imperial Age"
+    ],
+    "uniqueUnits": [
+      "Plumed Archer (fast-moving Archer)"
+    ],
+    "castleAgeTech": "Obsidian Arrows (Archer-line +6 Attack vs. Buildings, +6 vs. Stone Defense)",
+    "imperialAgeTech": "El Dorado (Eagle Warriors have +40 hit points)",
+    "teamBonus": "Walls cost -50%"
+  },
+  {
+    "civID": 122,
+    "name": "Mongols",
+    "bonus": [
+      "Cavalry Archers, Mangudai, Genitour fire 25% faster",
+      "Light Cavalry, Hussar +30% hit points",
+      "Hunters work 50% faster"
+    ],
+    "uniqueUnits": [
+      "Mangudai (fast-firing Cavalry Archer)"
+    ],
+    "castleAgeTech": "Nomads (Destroyed houses don\u2019t lose population room)",
+    "imperialAgeTech": "Drill (Siege Workshop units move 50% faster)",
+    "teamBonus": "Scout-Line +2 line of sight"
+  },
+  {
+    "civID": 123,
+    "name": "Persians",
+    "bonus": [
+      "Start with +50 wood, food",
+      "Town Center, Dock 2x hit points; work rate +10/15/20% in Feudal/Castle/Imperial Age"
+    ],
+    "uniqueUnits": [
+      "War Elephant (slow, heavy Cavalry)"
+    ],
+    "castleAgeTech": "Boiling Oil (Castles +9 Attack vs. Rams, only affects the first arrow)",
+    "imperialAgeTech": "Mahouts (War Elephants move 30% faster)",
+    "teamBonus": "Knights +2 Attack vs. Archers"
+  },
+  {
+    "civID": 124,
+    "name": "Portuguese",
+    "bonus": [
+      "All units cost -15% gold",
+      "Ships +10% HP",
+      "Can build Feitoria in Imperial Age (costs 250G, 250S, 20 population; produces 0.8 F+W/s, 0.45 G/s, 0.25 S/s)"
+    ],
+    "uniqueUnits": [
+      "Organ Gun (Gunpowder Siege)",
+      "Caravel (Scorpion-like ship)"
+    ],
+    "castleAgeTech": "Carrack (Ships +1/+1 Armor)",
+    "imperialAgeTech": "Arquebus (Ballistics for Gunpowder units)",
+    "teamBonus": "Free Cartography from the Dark Age"
+  },
+  {
+    "civID": 125,
+    "name": "Saracens",
+    "bonus": [
+      "Market trade cost only 5%",
+      "Market costs -75 wood",
+      "Transport Ships 2x hit points, +5 carry capacity",
+      "Galleys fire 25% faster",
+      "Cavalry Archers +4 Attack vs. Buildings"
+    ],
+    "uniqueUnits": [
+      "Mameluke (short-range anti-Cavalry camel)"
+    ],
+    "castleAgeTech": "Madrasah (Killed Monks return 33% of their costs)",
+    "imperialAgeTech": "Zealotry (Camels, Mamelukes +30 hit points)",
+    "teamBonus": "Foot Archers +2 Attack vs. Buildings"
+  },
+  {
+    "civID": 126,
+    "name": "Slavs",
+    "bonus": [
+      "Farmers work +15% faster",
+      "Tracking free",
+      "Siege Workshop units cost -15%"
+    ],
+    "uniqueUnits": [
+      "Boyar (Cavalry with heavy Melee Armor)"
+    ],
+    "castleAgeTech": "Orthodoxy (Monks +3/+3 Armor)",
+    "imperialAgeTech": "Druzhina (Infantry deal 5 damage in 0.5 radius per attack)",
+    "teamBonus": "Military Buildings provide +5 population"
+  },
+  {
+    "civID": 127,
+    "name": "Spanish",
+    "bonus": [
+      "Builders work 30% faster",
+      "Blacksmith upgrades don\u2019t cost gold",
+      "Bombard Cannons and Hand Cannoneers fire 18% faster",
+      "Cannon Galleons fire with ballistics, faster missiles"
+    ],
+    "uniqueUnits": [
+      "Conquistador (mounted Hand Cannoneer)",
+      "Missionary (mounted Monk)"
+    ],
+    "castleAgeTech": "Inquisition (faster conversion: min/max conversion times -1s, -7s for Buildings)",
+    "imperialAgeTech": "Supremacy (Villagers +6 Attack, +2/+2 Armor, +40 HP)",
+    "teamBonus": "Trade units generate +25% gold"
+  },
+  {
+    "civID": 128,
+    "name": "Teutons",
+    "bonus": [
+      "Monks 2x healing range",
+      "Towers garrison +5, TCs +10 units, max. number of arrows +4 (TCs +5)",
+      "Murder Holes free",
+      "Farms cost -33%"
+    ],
+    "uniqueUnits": [
+      "Teutonic Knight (Infantry with heavy Melee Armor)"
+    ],
+    "castleAgeTech": "Ironclad (Siege Weapons +4 Melee Armor)",
+    "imperialAgeTech": "Crenellations (+3 range Castle; garrisoned Infantry fire arrows)",
+    "teamBonus": "Units resist conversion: min/max. Conversion time +1s/+2s, conversion chance halved"
+  },
+  {
+    "civID": 129,
+    "name": "Turks",
+    "bonus": [
+      "Gunpowder units +25% hit points",
+      "Researching Gunpowder technologies costs -50%; Chemistry free",
+      "Gold miners work 20% faster",
+      "Light Cavalry and Hussar upgrades free"
+    ],
+    "uniqueUnits": [
+      "Janissary (hand cannoneer)"
+    ],
+    "castleAgeTech": "Sipahi (Cavalry Archers, Genitours +20 HP)",
+    "imperialAgeTech": "Artillery (+2 range Bombard Towers, Bombard Cannons, Cannon Galleons)",
+    "teamBonus": "Gunpowder units are created 25% faster"
+  },
+  {
+    "civID": 130,
+    "name": "Vietnamese",
+    "bonus": [
+      "Reveal enemy positions at game start",
+      "Archery Range units +20% HP",
+      "Conscription free"
+    ],
+    "uniqueUnits": [
+      "Rattan Archer (Archer with high pierce armor)"
+    ],
+    "castleAgeTech": "Chatras (Battle Elephants +50 HP)",
+    "imperialAgeTech": "Paper Money (Tributes 500 gold to each Ally)",
+    "teamBonus": "Have access to Imperial Skirmisher upgrade"
+  },
+  {
+    "civID": 131,
+    "name": "Vikings",
+    "bonus": [
+      "Warships cost -15/15/20% in Feudal/Castle/Imperial Age",
+      "Infantry +10/15/20% HP in Feudal/Castle/Imperial Age",
+      "Wheelbarrow, Hand Cart free"
+    ],
+    "uniqueUnits": [
+      "Berserk (regenerating Infantry)",
+      "Longboat (warship)"
+    ],
+    "castleAgeTech": "Chieftains (Infantry +5 Attack vs. Cavalry, +2 vs. Camels)",
+    "imperialAgeTech": "Berserkergang (Berserks regenerate 2x faster, 1 HP/1.5s instead of 1 HP/3s)",
+    "teamBonus": "Docks cost -15%"
+  }
+]
