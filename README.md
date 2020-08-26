@@ -22,3 +22,16 @@ which will make it easier to maintain.
 I have left a dummy service account .json file in the build
 directory (./functions/src/lib) as a guide to the file
 structure only.
+
+## Setting up your own API Of Empires
+
+In bash:
+
+```
+$ git clone 
+$ cd api-of-empires-ii
+$ npm init
+$ npm install express --save
+```
+**Note**: if you're using 5.0+, you won't need the --save flag.
+
