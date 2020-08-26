@@ -3,9 +3,9 @@ The first and simplest iteration of an API I built as the back end for my App Of
 
 This was built with:
 
--Firebase functions
--Express (Node.js 10 runtime)
--TypeScript
+* Firebase functions
+* Express (Node.js 10 runtime)
+* TypeScript
 
 This is primarily for use with the front-end App Of Empires.
 I wanted to keep a copy of this directory structure which
