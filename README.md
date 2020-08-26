@@ -25,13 +25,26 @@ structure only.
 
 ## Setting up your own API Of Empires
 
-In bash:
+In your terminal:
+
+### Clone the repo and add dependencies
 
 ```
-$ git clone 
+$ git clone https://github.com/TheWildebeest/api-of-empires-ii.git
 $ cd api-of-empires-ii
-$ npm init
-$ npm install express --save
+$ npm install
+$npm run build
 ```
-**Note**: if you're using 5.0+, you won't need the --save flag.
 
+### Add firebase
+
+If running `npm install` does not add the firebase CLI, you will need to run the following commands:
+
+```
+$ npm install --save firebase
+$ firebase init
+```
+
+You only need to add Firebase Functions to the project. Once this is added, add your own Firebase Admin credentials in place of the dummy service acount `.json` file, and run `$ firebase deploy`.
+
+**Notes**: If you're using 5.0+, you don't need the --save flag with npm. Also, if you want to add functionality to the app, be sure to follow the same "builder" pattern and export this as a function at the end.
