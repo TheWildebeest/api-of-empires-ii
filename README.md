@@ -47,4 +47,4 @@ $ firebase init
 
 You only need to add Firebase Functions to the project. Once this is added, add your own Firebase Admin credentials in place of the dummy service acount `.json` file, and run `$ firebase deploy`.
 
-**Notes**: If you're using 5.0+, you don't need the --save flag with npm. Also, if you want to add functionality to the app, be sure to follow the same "builder" pattern and export this as a function at the end.
+**Notes**: If you're using npm 5.0+, you don't need the --save flag with npm. Also, if you want to add functionality to the app, be sure to follow the same "builder" pattern and export this as a function at the end.
